@@ -1,3 +1,10 @@
+Paul (D) - KJ4DXK
+
+Lynn (D) - KJ4ERJ
+
+This software was brought to you by the letters L and P and the number 42.
+
+
 From an Administrator Command Prompt:
 
 // Set up the environment, including the MOAI_SDK_HOME (D:\MOAI-Stuff\moai-community\scripts\..\sdk\moai-dev)
