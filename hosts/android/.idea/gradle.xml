@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/moai" />
+            <option value="$PROJECT_DIR$/moai-adcolony" />
+            <option value="$PROJECT_DIR$/moai-amazonbilling" />
+            <option value="$PROJECT_DIR$/moai-chartboost" />
+            <option value="$PROJECT_DIR$/moai-core" />
+            <option value="$PROJECT_DIR$/moai-crittercism" />
+            <option value="$PROJECT_DIR$/moai-facebook" />
+            <option value="$PROJECT_DIR$/moai-flurry" />
+            <option value="$PROJECT_DIR$/moai-fortumo" />
+            <option value="$PROJECT_DIR$/moai-googlebilling" />
+            <option value="$PROJECT_DIR$/moai-googleplayservices" />
+            <option value="$PROJECT_DIR$/moai-googlepush" />
+            <option value="$PROJECT_DIR$/moai-tapjoy" />
+            <option value="$PROJECT_DIR$/moai-twitter" />
+            <option value="$PROJECT_DIR$/moai-vungle" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,828 @@
+Moai SDK 1.7 (ad hoc build by <unknown>)
+DEBUG BUILD
+[MOAI-1] main:Before myinit
+load:	running assets\lua\init.lua
+[MOAI-1] 02:42:24 assets\lua\init.lua ran @.\myinit.lua:78
+[MOAI-1] main:After myinit
+[MOAI-1] 02:42:24 main:MOAIEnvironment.appDisplayName is nil(nil) @main.lua:62
+[MOAI-1] 02:42:24 main:Defining MOAIEnvironment.appDisplayName to APRSISMO @main.lua:64
+[MOAI-1] 02:42:24 main:Determining appVersion, lfs.dir = function: 01074EE8 @main.lua:68
+[MOAI-1] 02:42:24 main:Checking . @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking .. @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking 0-0-0.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking 2020TDC @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking 2021R4R @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking 2022TDC @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-24-0.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-24-0@2x.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-24-1.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-24-1@2x.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-24-2.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-24-2@2x.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-64-0.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-64-0@2x.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-64-1.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-64-1@2x.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-64-2.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-64-2@2x.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking aprs-symbols-64-droid.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking APRS.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking APRS1.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking APRS2.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking APRSIS.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking APRSISMO.ico @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking APRSISMO.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking APRSISMO.xml-Safe @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking APRSmap.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking ArcGISNatGeo.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking ArcGISUSATopo.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking ArcGISWorldImagery.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking ArcGISWorldNav.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking ArcGISWorldTopo.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking arial-rounded.ttf @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking BigNum.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking btport.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking buttons_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking chooser_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking Cmd-D700-KISS.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-D700-NMEA.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-D74-APRS-A.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-D74-APRS-B.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-D74-KISS-A.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-D74-KISS-B.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-D74-NMEA-A.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-D74-NMEA-B.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-Simply-KISS.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Cmd-Simply-TNC2.xml @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking colors.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking config_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking cour.ttf @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking courbd.ttf @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking dbf.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking debugpath.bat @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking dropbox_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking file_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking GAIA GPS.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking GPSd.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking GPXSym2.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking GPXSym3.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking GPXSym4.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking GPXSym5.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking habitat.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking hp @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking hp-config.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking hp-modules.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking Hydra.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Hydra2.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Hydra3.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Hydra5.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Hydra6.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking icon-google.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking icon-large.xcf @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking icon-notify.xcf @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking icons @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking IP-LynnsTiles.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking IP-OpenStreetMaps.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking IPFS-Meta.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking IPFS-Mine.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Israel1.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking json.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking latlon.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking lightning.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking luadate.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking Lynns2080.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking LynnsMeta2.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking LynnsTiles.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking Lynx-1.jpg @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking lynx.jpg @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking lynxpic.jpg @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking main.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking maps_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking mbtile.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking mbtile3.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking mbtilesql.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking MesonetRadar.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking moai.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking mqtt.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking mybits.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking myconfig.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking myinit.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking mytelemetry.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking NewOSM.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking OpenCycleMap.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking OpenStreetMaps.mbtiles @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking osmTiles.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking otp.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking paho @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking proxy.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking QSOs.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking QSOs_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking QSO_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking radar.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking runmoai.bat @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking service.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking setpath.bat @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking shapedir.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking shapefile @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking shapefile.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking showLoc.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking skins @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking splash.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking spoon.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking stationList.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking symbols.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking symbol_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking telemetry.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking temp.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking temp.out @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking testrange.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking TextEntry.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking textentry_scene.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking tilemgr-propagate.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking tilemgr.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking toast.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking wordwrap.lua @main.lua:71
+[MOAI-1] 02:42:24 main:Checking World.png @main.lua:71
+[MOAI-1] 02:42:24 main:Nomatch @main.lua:76
+[MOAI-1] 02:42:24 main:Checking xml.lua @main.lua:71
+[MOAI-1] 02:42:24 main:end lfs.dir loop @main.lua:79
+[MOAI-1] 02:42:24 main:require toast @main.lua:86
+[MOAI-1] 02:42:24 main:require APRS @main.lua:88
+[MOAI-1] 02:42:24 main:require colors @main.lua:90
+[MOAI-1] 02:42:24 main:require latlon @main.lua:92
+[MOAI-1] 02:42:24 main:require otp @main.lua:94
+[MOAI-1] 02:42:24 otp:using mybits type(bit)=nil @otp.lua:8
+[MOAI-1] 02:42:24 main:require hp-modules @main.lua:101
+[MOAI-1] 02:42:24 main:require hp-config @main.lua:103
+[MOAI-1] 02:42:24 width=0 height=0 @hp-config.lua:11
+[MOAI-1] 02:42:24 x=0 y=0 @hp-config.lua:16
+[MOAI-1] 02:42:24 x=1024 y=480 @hp-config.lua:26
+[MOAI-1] 02:42:24 Remember to enableTextureLogging! @main.lua:108
+[MOAI-1] 02:42:24 main:require socket @main.lua:125
+[MOAI-1] 02:42:24 Table[arg] = nil(nil) @main.lua:266
+[MOAI-1] 02:42:24 Group[Infrastructure] has 24 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Marker] has 36 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Special] has 28 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Branded] has 12 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Floating] has 4 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Flying] has 8 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Fixed] has 29 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Human] has 7 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Amenity] has 30 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Weather] has 40 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Mobile] has 32 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Group[Undefined] has 21 symbols @symbols.lua:360
+[MOAI-1] 02:42:24 Total grouped symbols:271 defined:94 @symbols.lua:363
+[MOAI-1] 02:42:24 QSOs:Loading! @QSOs.lua:9
+[MOAI-1] 02:42:24 otp:using mybits type(bit)=nil @tilemgr.lua:86
+[MOAI-1] 02:42:24 mbtile3:type(MBTile) = table(table: 03818B30) @tilemgr.lua:346
+[MOAI-1] 02:42:24 otp:using mybits type(bit)=nil @osmTiles.lua:921
+[MOAI-1] 02:42:24 Config loaded from APRSISMO.xml in directory . @myconfig.lua:646
+[MOAI-1] 02:42:24 GPSd loaded as table: 0381FA20 @main.lua:417
+[MOAI-1] 02:42:24 Config[StationID] has onModify:function: 038A8698 @myconfig.lua:533
+[MOAI-1] 02:42:24 Config[Beacon.Symbol] has onModify:function: 038A8890 @myconfig.lua:558
+[MOAI-1] 02:42:24 Config[APRSIS.Server] has onModify:function: 0387A170 @myconfig.lua:533
+[MOAI-1] 02:42:24 Config[Filter] has onModify:function: 038A8920 @myconfig.lua:533
+[MOAI-1] 02:42:24 Config[Map.MBTiles] has onModify:function: 038AA348 @myconfig.lua:558
+[MOAI-1] 02:42:24 Config[Map.TopTiles] has onModify:function: 038AA348 @myconfig.lua:558
+[MOAI-1] 02:42:24 Config[gpsd.Server] has onModify:function: 038AA1E0 @myconfig.lua:533
+[MOAI-1] 02:42:24 Adding Dropbox group @main.lua:1013
+[MOAI-1] 02:42:24 Config[OTP.Target] has onModify:function: 038AAC90 @myconfig.lua:533
+[MOAI-1] 02:42:24 Config[OTP.Secret] has onModify:function: 038A8770 @myconfig.lua:533
+[MOAI-1] 02:42:24 MOAIEnvironment.screenDpi:118 @main.lua:1042
+[MOAI-1] 02:42:24 Application:isDesktop @main.lua:1044
+[MOAI-1] 02:42:24 dpi:129 scale:0.5375 @main.lua:1053
+[MOAI-1] 02:42:24 Config(InitialDefaults) Saved To APRSISMO.xml @myconfig.lua:86
+[MOAI-1] 02:42:24 index:Accessing UNDEFINED config[lastLat] (cAsE sEnSiTiVe!) from main.lua:1161 @myconfig.lua:707
+[MOAI-1] 02:42:24 index:Accessing UNDEFINED config[lastLat] (cAsE sEnSiTiVe!) from main.lua:1165 @myconfig.lua:707
+[MOAI-1] 02:42:24 index:Accessing UNDEFINED config[lastLat] (cAsE sEnSiTiVe!) from main.lua:1165 @myconfig.lua:707
+[MOAI-1] 02:42:24 index:Accessing UNDEFINED config[lastLon] (cAsE sEnSiTiVe!) from main.lua:1165 @myconfig.lua:707
+[MOAI-1] 02:42:24 index:Accessing UNDEFINED config[lastLon] (cAsE sEnSiTiVe!) from main.lua:1165 @myconfig.lua:707
+[MOAI-1] 02:42:24 lastLat=nil(nil) lastLon=nil(nil) @main.lua:1165
+[MOAI-1] 02:42:25 inputmanager.lua:Using pointer(mouse) input @hp/manager/InputManager.lua:141
+[MOAI-1] 02:42:25 inputmanager.lua:Adding touch input @hp/manager/InputManager.lua:146
+[MOAI-1] 02:42:25 SceneFactory:Require splash @hp/factory/SceneFactory.lua:30
+[MOAI-1] 02:42:25 SceneFactory:Required splash @hp/factory/SceneFactory.lua:32
+[MOAI-1] 02:42:25 sceneManager:onCreate splash @hp/manager/SceneManager.lua:243
+[MOAI-1] 02:42:25 splash:onCreate @splash.lua:55
+[MOAI-1] 02:42:25 FontManager:newFont:arial-rounded.ttf$24$ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,:;!?()<>%@&/-$ @hp/manager/FontManager.lua:54
+[MOAI-1] 02:42:25 icon-google.png is 512x512 screen:1024x480 @splash.lua:87
+[MOAI-1] 02:42:25 sceneManager:onCreated splash @hp/manager/SceneManager.lua:245
+[MOAI-1] 02:42:25 splash:onStart() @splash.lua:105
+[MOAI-1] 02:42:25 toast.new[2000]:APRSISMO 2022-04-22 02:17 from splash.lua:107 @toast.lua:89
+[MOAI-1] 02:42:25 toast:Scene(splash) Resuming! @toast.lua:104
+[MOAI-1] 02:42:25 splash:onResume() @splash.lua:113
+[MOAI-1] 02:42:25 Logging Stopped
+ @main.lua:1217
+[MOAI-1] 02:42:25 platformSize: 1024x480 at 129 dpi @main.lua:1240
+[MOAI-1] 02:42:25 Initializing touch callback... @main.lua:1411
+[MOAI-1] 02:42:25                Display Name : 	APRSISMO @main.lua:1464
+[MOAI-1] 02:42:25                      App ID : 	nil @main.lua:1465
+[MOAI-1] 02:42:25                 App Version : 	2022-04-22 02:17 @main.lua:1466
+[MOAI-1] 02:42:25             Cache Directory : 	nil @main.lua:1467
+[MOAI-1] 02:42:25    Carrier ISO Country Code : 	nil @main.lua:1468
+[MOAI-1] 02:42:25 Carrier Mobile Country Code : 	nil @main.lua:1469
+[MOAI-1] 02:42:25 Carrier Mobile Network Code : 	nil @main.lua:1470
+[MOAI-1] 02:42:25                Carrier Name : 	nil @main.lua:1471
+[MOAI-1] 02:42:25             Connection Type : 	nil @main.lua:1472
+[MOAI-1] 02:42:25                Country Code : 	nil @main.lua:1473
+[MOAI-1] 02:42:25                     CPU ABI : 	nil @main.lua:1474
+[MOAI-1] 02:42:25                Device Brand : 	nil @main.lua:1475
+[MOAI-1] 02:42:25                 Device Name : 	nil @main.lua:1476
+[MOAI-1] 02:42:25         Device Manufacturer : 	nil @main.lua:1477
+[MOAI-1] 02:42:25                Device Model : 	nil @main.lua:1478
+[MOAI-1] 02:42:25             Device Platform : 	nil @main.lua:1479
+[MOAI-1] 02:42:25              Device Product : 	nil @main.lua:1480
+[MOAI-1] 02:42:25          Document Directory : 	C:\Users\ldeffenb\Documents @main.lua:1481
+[MOAI-1] 02:42:25          iOS Retina Display : 	nil @main.lua:1482
+[MOAI-1] 02:42:25               Language Code : 	nil @main.lua:1483
+[MOAI-1] 02:42:25                    OS Brand : 	Windows @main.lua:1484
+[MOAI-1] 02:42:25                  OS Version : 	Win @main.lua:1485
+[MOAI-1] 02:42:25          Resource Directory : 	nil @main.lua:1486
+[MOAI-1] 02:42:25                  Screen DPI : 	129 @main.lua:1487
+[MOAI-1] 02:42:25               Screen Height : 	nil @main.lua:1488
+[MOAI-1] 02:42:25                Screen Width : 	nil @main.lua:1489
+[MOAI-1] 02:42:25                        UDID : 	B07D648B608B @main.lua:1490
+[MOAI-1] 02:42:25 Running APRSIS:update ServiceCoroutine @main.lua:1512
+[MOAI-1] 02:42:25 runServiceCoroutine:function: 03A09890 coroutine=thread: 0384E8E0 from:main.lua:1513 @service.lua:209
+[MOAI-1] 02:42:25 APRSIS:table: 03A8A730 enabled:nil connected:nil connecting:nil client:nil @APRSIS.lua:433
+[MOAI-1] 02:42:25 Back from running CoRoutine @main.lua:1520
+[MOAI-1] 02:42:25 bit:using mybits type(bit)=nil @btport.lua:141
+[MOAI-1] 02:42:25 cacheDirectory:nil @main.lua:1527
+[MOAI-1] 02:42:25 documentDirectory:C:\Users\ldeffenb\Documents @main.lua:1528
+[MOAI-1] 02:42:25 resourceDirectory:nil @main.lua:1529
+[MOAI-1] 02:42:25 Tracking Objects for Histogram via 1 @main.lua:1831
+[MOAI-1] 02:42:25 MOAIApp:nil MOAIAppAndroid:nil MOAIAppIOS:nil @main.lua:1845
+[MOAI-1] 02:42:25 MOAIApp:nil MOAIAppAndroid:nil MOAIAppIOS:nil @main.lua:1847
+[MOAI-1] 02:42:25 MOAIApp=nil @main.lua:1872
+[MOAI-1] 02:42:25 main.lua done processing! @main.lua:1919
+[MOAI-1] 02:42:25 MOAINotifications:nil MOAINotificationsAndroid:nil MOAINotificationsIOS:nil @main.lua:2005
+[MOAI-1] 02:42:25 No MOAINotifications @main.lua:2015
+[MOAI-1] 02:42:25 MOAIApp:nil MOAIAppAndroid:nil MOAINotificationsIOS:nil @main.lua:2018
+[MOAI-1] 02:42:25 No MOAIApp @main.lua:2023
+[MOAI-1] 02:42:25 MOAIDialog:table: 01076C18 MOAIDialogAndroid:nil MOAIDialogIOS:nil @main.lua:2026
+[MOAI-1] 02:42:25 /proc/self/statm: No such file or directory @main.lua:2058
+[MOAI-1] 02:42:25 Config[Radar.Name] has onModify:function: 03A90AE0 @myconfig.lua:558
+[MOAI-1] 02:42:25 Radar:Starting monitor! (table) @radar.lua:574
+[MOAI-1] 02:42:25 index:Accessing UNDEFINED config[lastRadar] (cAsE sEnSiTiVe!) from main.lua:2123 @myconfig.lua:707
+[MOAI-1] 02:42:25 Radar:setEnable(nil) @radar.lua:129
+[MOAI-1] 02:42:25 main all done! @main.lua:2442
+[MOAI-1] 02:42:25 NOT reporting Performance, set config.Debug.Performance to enable @main.lua:2493
+[MOAI-1] 02:42:25 MonitorGlobals:Monitoring Globals @main.lua:2503
+[MOAI-1] 02:42:26 Not refreshing titleText, osmTiles=nil @stationList.lua:1214
+[MOAI-1] 02:42:27 Not refreshing titleText, osmTiles=nil @stationList.lua:1214
+[MOAI-1] 02:42:28 splash:opening APRSmap @splash.lua:32
+[MOAI-1] 02:42:28 splash:onPause() @splash.lua:117
+[MOAI-1] 02:42:28 SceneFactory:Require APRSmap @hp/factory/SceneFactory.lua:30
+[MOAI-1] 02:42:28 APRSmap:Loading service @APRSmap.lua:13
+[MOAI-1] 02:42:28 APRSmap:Loading osmTiles @APRSmap.lua:16
+[MOAI-1] 02:42:28 APRSmap:Loaded osmTiles=table: 03705760 @APRSmap.lua:18
+[MOAI-1] 02:42:28 SceneFactory:Required APRSmap @hp/factory/SceneFactory.lua:32
+[MOAI-1] 02:42:28 sceneManager:onCreate APRSmap @hp/manager/SceneManager.lua:243
+[MOAI-1] 02:42:28 APRSmap:onCreate @APRSmap.lua:1136
+[MOAI-1] 02:42:28 APRSmap:setting APRS callbacks @APRSmap.lua:1180
+[MOAI-1] 02:42:28 APRSmap:setting APRSIS callbacks @APRSmap.lua:1183
+[MOAI-1] 02:42:28 APRSmap:Done setting APRSIS callbacks @APRSmap.lua:1191
+[MOAI-1] 02:42:28 APRSmap:resizeHandler=function: 03A8C3F0 @APRSmap.lua:1196
+[MOAI-1] 02:42:28 sceneManager:onCreated APRSmap @hp/manager/SceneManager.lua:245
+[MOAI-1] 02:42:28 APRSmap:onStart() @APRSmap.lua:577
+[MOAI-1] 02:42:28 index:Accessing UNDEFINED config[lastMapLat] (cAsE sEnSiTiVe!) from APRSmap.lua:581 @myconfig.lua:707
+[MOAI-1] 02:42:28 index:Accessing UNDEFINED config[lastMapLon] (cAsE sEnSiTiVe!) from APRSmap.lua:582 @myconfig.lua:707
+[MOAI-1] 02:42:28 APRSmap:Starting osmTiles @APRSmap.lua:584
+[MOAI-1] 02:42:28 osmTiles:setSize:1024x480 needs 7x3 tiles @osmTiles.lua:2581
+[MOAI-1] 02:42:28 osmTiles:setSize:Created 21 tiles to cover 1024x480 @osmTiles.lua:2597
+[MOAI-1] 02:42:28 APRSmap:moveTo:27.996683 -80.659083 zoom:12 @APRSmap.lua:586
+[MOAI-1] 02:42:28 toast.new[500]:Zoom:12 from osmTiles.lua:494 @toast.lua:89
+[MOAI-1] 02:42:28 Reloading for 1130,1715,12 from -1,-1,-1 @osmTiles.lua:2362
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/ArcGISNatGeo.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/ArcGISUSATopo.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/ArcGISWorldImagery.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/ArcGISWorldNav.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/ArcGISWorldTopo.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/GAIA GPS.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/IP-LynnsTiles.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/IP-OpenStreetMaps.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/IPFS-Meta.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/IPFS-Mine.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/Israel1.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/Lynns2080.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/LynnsMeta2.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/LynnsTiles.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/MesonetRadar.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/NewOSM.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/OpenCycleMap.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 sqlite:C:/Users/ldeffenb/Documents/MBTiles/OpenStreetMaps.mbtiles ALSO EXISTS! @tilemgr.lua:360
+[MOAI-1] 02:42:28 MBTile:Making New Instance for C:/Users/ldeffenb/Documents/MBTiles/LynnsTiles.mbtiles @mbtile3.lua:26
+[MOAI-1] 02:42:28 sqlite:Got database connection to C:/Users/ldeffenb/Documents/MBTiles/LynnsTiles.mbtiles @mbtile3.lua:190
+[MOAI-1] 02:42:28 dbUpgrade:FullPath:C:/Users/ldeffenb/Documents/MBTiles/LynnsTiles.mbtiles has name:LynnsTiles.mbtiles @mbtile3.lua:204
+[MOAI-1] 02:42:28 dbUpgrade:Successfully opened C:/Projects/moai-projects/APRSISMO/src/LynnsTiles.mbtiles @mbtile3.lua:218
+[MOAI-1] 02:42:28 dbUpgrade:metadata(name) LynnsTiles have LynnsTiles @mbtile3.lua:221
+[MOAI-1] 02:42:28 dbUpgrade:metadata(type) baselayer have baselayer @mbtile3.lua:221
+[MOAI-1] 02:42:28 dbUpgrade:metadata(version) 1 have 1 @mbtile3.lua:221
+[MOAI-1] 02:42:28 dbUpgrade:metadata(description) APRSISMO by KJ4ERJ have APRSISMO by KJ4ERJ @mbtile3.lua:221
+[MOAI-1] 02:42:28 dbUpgrade:metadata(format) png have png @mbtile3.lua:221
+[MOAI-1] 02:42:28 dbUpgrade:metadata(bounds) -180.0,-85,180,85 have -180.0,-85,180,85 @mbtile3.lua:221
+[MOAI-1] 02:42:28 dbUpgrade:metadata(URLFormat) http://ldeffenb.dnsalias.net:14160/osm/%z/%x/%y.png have http://ldeffenb.dnsalias.net:14160/osm/%z/%x/%y.png @mbtile3.lua:221
+[MOAI-1] 02:42:28 URLFormat(http://ldeffenb.dnsalias.net:14160/osm/%z/%x/%y.png) not ldeffenb in C:/Users/ldeffenb/Documents/MBTiles/LynnsTiles.mbtiles @mbtile3.lua:259
+[MOAI-1] 02:42:28 Table[tilesColumsn] = tile_column=table: 03704270 tile_data=table: 03704400 tile_date=table: 03704450 tile_expires=table: 03705170 tile_row=table: 037042C0 zoom_level=table: 03704180 @mbtile3.lua:136
+[MOAI-1] 02:42:28 zoom_level(integer) tile_data(blob) @mbtile3.lua:137
+[MOAI-1] 02:42:28 DB(LynnsTiles) Supports expiration! @mbtile3.lua:140
+[MOAI-1] 02:42:28 Count took 0.61930000083521msec @mbtile3.lua:176
+[MOAI-1] 02:42:28 MBTile:Returning Existing Instance for C:/Users/ldeffenb/Documents/MBTiles/LynnsTiles.mbtiles @mbtile3.lua:23
+[MOAI-1] 02:42:28 osmTiles:osmLoadTiles:Loaded 1127.00,1714.00-> 1134.00,1717.00 or 288512.00,438784.00 -> 290304.00,439552.00 in 63ms @osmTiles.lua:2392
+[MOAI-1] 02:42:28 osmTiles:osmLoadTiles:Offset RELOADED! @osmTiles.lua:2411
+[MOAI-1] 02:42:28 osmTiles:zoomTo:Took 68.923700018786ms @osmTiles.lua:509
+[MOAI-1] 02:42:28 osmTiles:moveTo:Took 69.035900000017ms @osmTiles.lua:333
+[MOAI-1] 02:42:28 APRSmap:setTileScale:1 @APRSmap.lua:596
+[MOAI-1] 02:42:28 APRSmap:setTileAlpha:1 @APRSmap.lua:601
+[MOAI-1] 02:42:28 toast.new[1000]:100% Opaque from osmTiles.lua:537 @toast.lua:89
+[MOAI-1] 02:42:28 APRSmap:setupME w/osmTiles @APRSmap.lua:606
+[MOAI-1] 02:42:28 stationList:setupME(table: 03705760) @stationList.lua:144
+[MOAI-1] 02:42:28 stationList:setupME:getSymbolLabel @stationList.lua:146
+[MOAI-1] 02:42:28 imagesInitialized:false targetSize:32.25 screenDpi:129 @stationList.lua:836
+[MOAI-1] 02:42:28 imagesInitialized:false targetSize:32 imageInfo[k]:table @stationList.lua:851
+[MOAI-1] 02:42:28 imagesInitialized:false imageInfo[k]:Table[II] = 1=aprs-symbols-24-0.png 2=aprs-symbols-24-1.png 3=aprs-symbols-24-2.png @stationList.lua:852
+[MOAI-1] 02:42:28 imagesInitialized:false width:384 height:144 @stationList.lua:857
+[MOAI-1] 02:42:28 imagesInitialized:true targetSize:32 symbolSize:22 margin:2 from aprs-symbols-24-0.png @stationList.lua:863
+[MOAI-1] 02:42:28 getSymbolImage:newUnique[1](/l) for ME is 09125648 <MOAIImageTexture> @stationList.lua:1030
+[MOAI-1] 02:42:28 stationList:setupME:showSymbol:table: 0B052138 @stationList.lua:148
+[MOAI-1] 02:42:28 stationList:setupME:Done @stationList.lua:151
+[MOAI-1] 02:42:28 APRSmap:starting service and APRSIS w/config @APRSmap.lua:609
+[MOAI-1] 02:42:28 service:start - Starting with table: 03890300 @service.lua:1583
+[MOAI-1] 02:42:28 runServiceCoroutine:function: 0B0541B8 coroutine=thread: 08FFCF98 from:service.lua:1589 @service.lua:209
+[MOAI-1] 02:42:28 Listening for http on 0.0.0.0:6362 @spoon.lua:339
+[MOAI-1] 02:42:28 toast:Scene(APRSmap) Resuming! @toast.lua:104
+[MOAI-1] 02:42:28 APRSmap:onResume() @APRSmap.lua:963
+[MOAI-1] 02:42:28 splash:opened APRSmap @splash.lua:34
+[MOAI-1] 02:42:28 APRSIS:table: 03A8A730 enabled:true connected:nil connecting:nil client:nil @APRSIS.lua:433
+[MOAI-1] 02:42:28 getConnection:client=nil connecting=nil @APRSIS.lua:387
+[MOAI-1] 02:42:28 Connecting to the APRS-IS @APRSIS.lua:397
+[MOAI-1] 02:42:28 Connecting@rotate.aprs2.net:14580 @APRSIS.lua:402
+[MOAI-1] 02:42:28 REALLY Connecting to the APRS-IS @APRSIS.lua:407
+[MOAI-1] 02:42:28 connect(tcp{client}: 0B114640) failed with timeout @APRSIS.lua:412
+[MOAI-1] 02:42:28 Connect initiated with rotate.aprs2.net:14580 @APRSIS.lua:423
+[MOAI-1] 02:42:28 runServiceCoroutines took 160.38ms doing prep:0ms 1:160ms 2:0ms, simRunning:true @service.lua:1345
+[MOAI-1] 02:42:28 APRSIS:table: 03A8A730 enabled:true connected:nil connecting:rotate.aprs2.net:14580 client:nil @APRSIS.lua:433
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:userdata(odotext) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:userdata(gpstext) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:table(APRSmap) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:userdata(whytext) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:userdata(speedtext) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:string(text) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:userdata(titleText) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:userdata(temptext) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:number(scale) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:userdata(lwdtext) @main.lua:2508
+[MOAI-1] 02:42:28 1 writeable sockets!  is tcp{client}: 0B114640==tcp{client}: 0B114640? @APRSIS.lua:352
+[MOAI-1] 02:42:28 APRSIS@192.168.10.177:64768 Remote: 78.47.200.124 @APRSIS.lua:313
+[MOAI-1] 02:42:28 connectedCallback:rotate.aprs2.net:14580 (78.47.200.124<192.168.10.177) @main.lua:2621
+[MOAI-1] 02:42:28 APRSmap:APRSIS:connected:rotate.aprs2.net:14580 (78.47.200.124<192.168.10.177) @APRSmap.lua:1187
+[MOAI-1] 02:42:28 toast.new[2000]:rotate.aprs2.net:14580 (78.47.200.124<192.168.10.177) from APRSmap.lua:1188 @toast.lua:89
+[MOAI-1] 02:42:28 APRSIS:back from connectedCallbacks with appVersion 2022-04-22 02:17 @APRSIS.lua:318
+[MOAI-1] 02:42:28 user APRSIS-DR pass -1 vers APRSISMO 2022-04-22-02:17 filter m/50 u/APWA*/APWM* @APRSIS.lua:330
+[MOAI-1] 02:42:28 logon sent:number 81 @APRSIS.lua:332
+[MOAI-1] 02:42:28 APRSIS:table: 03A8A730 enabled:true connected:78.47.200.124 connecting:nil client:tcp{client}: 0B114640 @APRSIS.lua:433
+MOAIHttpTaskCurl:curl_text: Rebuilt URL to: https://api.ipify.org/
+[MOAI-1] 02:42:28 TextLabel:fitSize(1000000) getStringBounds Failed (11pts)!  Using 1000000x22 @hp/display/TextLabel.lua:140
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:string(lastIdle) @main.lua:2508
+[MOAI-1] 02:42:28 TextLabel:fitSize:getStringBounds(11pts)=250x18 @hp/display/TextLabel.lua:149
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:number(lastReceive) @main.lua:2508
+[MOAI-1] 02:42:28 MonitorGlobals:New Global:string(lastPackets) @main.lua:2508
+MOAIHttpTaskCurl:curl_text:   Trying 52.20.78.240...
+MOAIHttpTaskCurl:curl_text: TCP_NODELAY set
+MOAIHttpTaskCurl:curl_text: Connected to api.ipify.org (52.20.78.240) port 443 (#0)
+MOAIHttpTaskCurl:curl_text: mbedTLS: Connecting to api.ipify.org:443
+MOAIHttpTaskCurl:curl_text: mbedTLS: Set min SSL version to TLS 1.0
+[MOAI-1] 02:42:29 toast.new[2000]:APRS-IS(rotate.aprs2.net:14580 (78.47.200.124<192.168.10.177)) UNverified from stationList.lua:2267 @toast.lua:89
+MOAIHttpTaskCurl:curl_text: mbedTLS: Handshake complete, cipher is TLS-ECDHE-RSA-WITH-AES-128-GCM-SHA256
+MOAIHttpTaskCurl:curl_text: Dumping cert info:
+* cert. version     : 3
+* serial number     : BA:55:D3:F1:5E:80:AC:BA:78:46:31:3B:B0:0E:9E:C3
+* issuer name       : C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+* subject name      : CN=*.ipify.org
+* issued  on        : 2022-02-07 00:00:00
+* expires on        : 2023-03-10 23:59:59
+* signed using      : RSA with SHA-256
+* RSA key size      : 2048 bits
+* basic constraints : CA=false
+* subject alt name  : *.ipify.org, ipify.org
+* key usage         : Digital Signature, Key Encipherment
+* ext key usage     : TLS Web Server Authentication, TLS Web Client Authentication
+
+MOAIHttpTaskCurl:curl_text: SSL connected
+MOAIHttpTaskCurl:curl_hdrOut: GET / HTTP/1.1
+Host: api.ipify.org
+Accept: */*
+
+MOAIHttpTaskCurl:curl_hdrIn: HTTP/1.1 200 OK
+MOAIHttpTaskCurl:curl_hdrIn: Server: Cowboy
+MOAIHttpTaskCurl:curl_hdrIn: Connection: keep-alive
+MOAIHttpTaskCurl:curl_hdrIn: Content-Type: text/plain
+MOAIHttpTaskCurl:curl_hdrIn: Vary: Origin
+MOAIHttpTaskCurl:curl_hdrIn: Date: Sat, 23 Apr 2022 02:42:29 GMT
+MOAIHttpTaskCurl:curl_hdrIn: Content-Length: 13
+MOAIHttpTaskCurl:curl_hdrIn: Via: 1.1 vegur
+MOAIHttpTaskCurl:curl_hdrIn: 
+MOAIHttpTaskCurl:curl_text: Connection #0 to host api.ipify.org left intact
+[MOAI-1] 02:42:29 getSymbolImage:newUnique[2](/I) for MY-IP is 09126458 <MOAIImageTexture> @stationList.lua:1030
+[MOAI-1] 02:42:29 APRSIS-DR>APWA01:;MY-IP    *024229h2802.07N/08035.32WI68.202.17.135 @main.lua:2539
+[MOAI-1] 02:42:29 index:Accessing UNDEFINED config[Bluetooth] (cAsE sEnSiTiVe!) from main.lua:620 @myconfig.lua:707
+[MOAI-1] 02:42:29 index:Accessing UNDEFINED config[Bluetooth] (cAsE sEnSiTiVe!) from main.lua:583 @myconfig.lua:707
+[MOAI-1] 02:42:29 updateGPSEnabled(true) @main.lua:507
+[MOAI-1] 02:42:29 not starting GPSd @main.lua:515
+[MOAI-1] 02:42:29 NOT setting Android KeepScreenOn! @main.lua:572
+[MOAI-1] 02:42:29 telemetry:telem=nil @main.lua:762
+[MOAI-1] 02:42:29 telemetry:telem=table: 0B046338 DEFINING! @main.lua:765
+[MOAI-1] 02:42:29 telemetry:Define point Acceleration @telemetry.lua:146
+[MOAI-1] 02:42:29 telemetry:Define point Battery @telemetry.lua:146
+[MOAI-1] 02:42:29 telemetry:Define point Temperature @telemetry.lua:146
+[MOAI-1] 02:42:29 telemetry:Define point SatInView @telemetry.lua:146
+[MOAI-1] 02:42:29 telemetry:Define point SatInUse @telemetry.lua:146
+[MOAI-1] 02:42:29 telemetry:Define bit A/C @telemetry.lua:151
+[MOAI-1] 02:42:29 telemetry:Define bit Charging @telemetry.lua:151
+[MOAI-1] 02:42:29 telemetry:Define bit GPS @telemetry.lua:151
+[MOAI-1] 02:42:29 telemetry:Define bit GPS @telemetry.lua:151
+[MOAI-1] 02:42:29 loading GPXs @APRSmap.lua:674
+[MOAI-1] 02:42:29 loadFile(2022TDC/2020_TdC_-101_Mi_538nodes.gpx returned table: 0B047D28 @APRSmap.lua:528
+[MOAI-1] 02:42:29 Table[gpx.trk] = __special=table: 0B370468 desc=name=2020 TdC -101 Mi name=2020 TdC -101 Mi trkseg=table: 0B36FF18 @APRSmap.lua:500
+[MOAI-1] 02:42:29 2022TDC/2020_TdC_-101_Mi_538nodes.gpx Has 0 Track(s) @APRSmap.lua:501
+[MOAI-1] 02:42:29 New Track with 538 points: @APRSmap.lua:403
+[MOAI-1] 02:42:29 osmtiles:showPolygon(2022TDC/2020_TdC_-101_Mi_538nodes.gpx) minSize=nil @osmTiles.lua:1894
+[MOAI-1] 02:42:29 loadFile(2022TDC/2020_TdC_-_63_Mi_366nodes.gpx returned table: 0B57F010 @APRSmap.lua:528
+[MOAI-1] 02:42:29 Table[gpx.trk] = __special=table: 0B6A2180 desc=name=2020 TdC - 63 Mi name=2020 TdC - 63 Mi trkseg=table: 0B6A2270 @APRSmap.lua:500
+[MOAI-1] 02:42:29 2022TDC/2020_TdC_-_63_Mi_366nodes.gpx Has 0 Track(s) @APRSmap.lua:501
+[MOAI-1] 02:42:29 New Track with 366 points: @APRSmap.lua:403
+[MOAI-1] 02:42:29 osmtiles:showPolygon(2022TDC/2020_TdC_-_63_Mi_366nodes.gpx) minSize=nil @osmTiles.lua:1894
+[MOAI-1] 02:42:29 loadFile(2022TDC/2020_TdC_-_50_Mi_208nodes.gpx returned table: 0B806D50 @APRSmap.lua:528
+[MOAI-1] 02:42:29 Table[gpx.trk] = __special=table: 0B8C7FC0 desc=name=2020 TdC - 50 Mi name=2020 TdC - 50 Mi trkseg=table: 0B8C8510 @APRSmap.lua:500
+[MOAI-1] 02:42:29 2022TDC/2020_TdC_-_50_Mi_208nodes.gpx Has 0 Track(s) @APRSmap.lua:501
+[MOAI-1] 02:42:29 New Track with 208 points: @APRSmap.lua:403
+[MOAI-1] 02:42:29 osmtiles:showPolygon(2022TDC/2020_TdC_-_50_Mi_208nodes.gpx) minSize=nil @osmTiles.lua:1894
+[MOAI-1] 02:42:29 loadFile(2022TDC/2020_TdC_-_25_Mi_358nodes.gpx returned table: 0B972700 @APRSmap.lua:528
+[MOAI-1] 02:42:29 Table[gpx.trk] = __special=table: 0BACF420 desc=name=2020 TdC - 25 Mi name=2020 TdC - 25 Mi trkseg=table: 0BACF6F0 @APRSmap.lua:500
+[MOAI-1] 02:42:29 2022TDC/2020_TdC_-_25_Mi_358nodes.gpx Has 0 Track(s) @APRSmap.lua:501
+[MOAI-1] 02:42:29 New Track with 358 points: @APRSmap.lua:403
+[MOAI-1] 02:42:29 osmtiles:showPolygon(2022TDC/2020_TdC_-_25_Mi_358nodes.gpx) minSize=nil @osmTiles.lua:1894
+[MOAI-1] 02:42:29 loadFile(2022TDC/2020_TdC_-_10_Mi_Walgreens_Family_Ride_200nodes.gpx returned table: 0BC76350 @APRSmap.lua:528
+[MOAI-1] 02:42:29 Table[gpx.trk] = __special=table: 0BD20C20 desc=name=2020 TdC - 10 Mi Walgreens Family Ride name=2020 TdC - 10 Mi Walgreens Family Ride trkseg=table: 0BD20D60 @APRSmap.lua:500
+[MOAI-1] 02:42:29 2022TDC/2020_TdC_-_10_Mi_Walgreens_Family_Ride_200nodes.gpx Has 0 Track(s) @APRSmap.lua:501
+[MOAI-1] 02:42:29 New Track with 200 points: @APRSmap.lua:403
+[MOAI-1] 02:42:29 osmtiles:showPolygon(2022TDC/2020_TdC_-_10_Mi_Walgreens_Family_Ride_200nodes.gpx) minSize=nil @osmTiles.lua:1894
+[MOAI-1] 02:42:29 done loading GPXs @APRSmap.lua:810
+[MOAI-1] 02:42:29 performWithDelay2:APRSmap.lua:643 took 254.48msec vs step(33.33) @main.lua:172
+[MOAI-1] 02:42:29 MonitorGlobals:New Global:string(vmText) @main.lua:2508
+[MOAI-1] 02:42:29 Table[C:/Users/ldeffenb/Documents/MBTiles/LynnsTiles.mbtiles] = 1=-180.0 2=-85 3=180 4=85 @mbtile3.lua:281
+[MOAI-1] 02:42:29 Bounds(C:/Users/ldeffenb/Documents/MBTiles/LynnsTiles.mbtiles) are -85->85 -180.0->180 @mbtile3.lua:287
+[MOAI-1] 02:42:29 sendFilter:#filter m/50 u/APWA*/APWM* @APRSIS.lua:298
+[MOAI-1] 02:42:29 MonitorGlobals:New Global:boolean(filtered) @main.lua:2508
+[MOAI-1] 02:42:29 MonitorGlobals:New Global:number(i) @main.lua:2508
+[MOAI-1] 02:42:29 MonitorGlobals:New Global:function(mysplit) @main.lua:2508
+[MOAI-1] 02:42:29 APRS:transmit:invoking 1 transmitCallbacks @APRS.lua:1265
+[MOAI-1] 02:42:29 APRSIS:sendPacket:APRSIS-DR>APWA01,TCPIP*:>APRSISMO(2022-04-22 02:17) de KJ4ERJ Windows Win 1024x480@129dpi @APRSIS.lua:247
+[MOAI-1] 02:42:29 sendStatus:>APRSISMO(2022-04-22 02:17) de KJ4ERJ Windows Win 1024x480@129dpi @service.lua:1116
+[MOAI-1] 02:42:30 moaiPropUtil:getWidth: xMin:nil yMin:nil zMin:nil xMax:nil yMax:nil zMax:nil @hp/util/MOAIPropUtil.lua:166
+[MOAI-1] 02:42:30 getSymbolImage:newUnique[3](//) for 0@0 is 09125918 <MOAIImageTexture> @stationList.lua:1030
+[MOAI-1] 02:42:30 not2Soon:lastPosit(nil @service.lua:851
+[MOAI-1] 02:42:30 APRS:transmit:invoking 1 transmitCallbacks @APRS.lua:1265
+[MOAI-1] 02:42:30 APRSIS:sendPacket:APRSIS-DR>APWA01,TCPIP*:@024230h2759.80N/08039.54WlFIRST APRSISMO de KJ4ERJ @APRSIS.lua:247
+[MOAI-1] 02:42:30 positPop - Creating positGroup for FIRST, currently nil @service.lua:1017
+[MOAI-1] 02:42:30 22:42:30 sendPosit(APRS-IS) @service.lua:808
+[MOAI-1] 02:42:30 MonitorGlobals:New Global:userdata(rangeCircle) @main.lua:2508
+[MOAI-1] 02:42:33 APRSmap:onTouchDown(event)[111]@371,161 0 touches @APRSmap.lua:1047
+[MOAI-1] 02:42:33 Reloading for 1129,1715,12 from 1130,1715,12 @osmTiles.lua:2362
+[MOAI-1] 02:42:33 osmTiles:osmLoadTiles:Loaded 1126.00,1714.00-> 1133.00,1717.00 or 288256.00,438784.00 -> 290048.00,439552.00 in 12ms @osmTiles.lua:2392
+[MOAI-1] 02:42:33 osmTiles:osmLoadTiles:Offset RELOADED! @osmTiles.lua:2411
+[MOAI-1] 02:42:33 osmTiles:moveTo:Took 13.270600000396ms @osmTiles.lua:333
+[MOAI-1] 02:42:33 osmTiles:deltaMove:Took 13.35719996132ms @osmTiles.lua:382
+[MOAI-1] 02:42:33 removed positGroup Symbol @service.lua:1055
+[MOAI-1] 02:42:33 APRSmap:onTouchUp(event)[111]@497,378 0 touches @APRSmap.lua:1062
+[MOAI-1] 02:42:33 APRSmap:onTouchDown(event)[111]@348,144 0 touches @APRSmap.lua:1047
+[MOAI-1] 02:42:33 Reloading for 1129,1714,12 from 1129,1715,12 @osmTiles.lua:2362
+[MOAI-1] 02:42:33 osmTiles:osmLoadTiles:Loaded 1126.00,1713.00-> 1133.00,1716.00 or 288256.00,438528.00 -> 290048.00,439296.00 in 17ms @osmTiles.lua:2392
+[MOAI-1] 02:42:33 osmTiles:osmLoadTiles:Offset RELOADED! @osmTiles.lua:2411
+[MOAI-1] 02:42:33 osmTiles:moveTo:Took 17.58929999778ms @osmTiles.lua:333
+[MOAI-1] 02:42:33 osmTiles:deltaMove:Took 17.682100005914ms @osmTiles.lua:382
+[MOAI-1] 02:42:33 APRSmap:onTouchUp(event)[111]@513,422 0 touches @APRSmap.lua:1062
+[MOAI-1] 02:42:34 APRSmap:onTouchDown(event)[111]@424,166 0 touches @APRSmap.lua:1047
+[MOAI-1] 02:42:34 Reloading for 1129,1713,12 from 1129,1714,12 @osmTiles.lua:2362
+[MOAI-1] 02:42:34 osmRemoteLoadTile[5] queueing 12/1129/1712 key:LynnsTiles/12/1129/1712.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 1/5 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 1 2/5 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 08FFCCF8 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 1/1 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 1/4 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[6] queueing 12/1130/1712 key:LynnsTiles/12/1130/1712.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 2/5 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 2 3/5 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 08FFCE48 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 2/2 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 2/4 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[8] queueing 12/1128/1712 key:LynnsTiles/12/1128/1712.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 3/5 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 3 4/5 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 08FFC860 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 3/3 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 3/4 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[12] queueing 12/1131/1712 key:LynnsTiles/12/1131/1712.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 4/5 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 4 5/5 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 08FFBBE8 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 4/4 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 4/4 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[15] queueing 12/1127/1712 key:LynnsTiles/12/1127/1712.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 5/5 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[18] queueing 12/1126/1712 key:LynnsTiles/12/1126/1712.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 2 6/6 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[20] queueing 12/1132/1712 key:LynnsTiles/12/1132/1712.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 3 7/7 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmTiles:osmLoadTiles:Loaded 1126.00,1712.00-> 1133.00,1715.00 or 288256.00,438272.00 -> 290048.00,439040.00 in 57ms @osmTiles.lua:2392
+[MOAI-1] 02:42:34 osmTiles:osmLoadTiles:Offset RELOADED! @osmTiles.lua:2411
+[MOAI-1] 02:42:34 osmTiles:moveTo:Took 58.197000005748ms @osmTiles.lua:333
+[MOAI-1] 02:42:34 osmTiles:deltaMove:Took 58.346899983007ms @osmTiles.lua:382
+[MOAI-1] 02:42:34 Reloading for 1128,1713,12 from 1129,1713,12 @osmTiles.lua:2362
+[MOAI-1] 02:42:34 updateLoadingCount:osmReload Flushing 3 Priority to Previous 7/7 from tilemgr.lua:1303 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:added to queue table: 0BC7B210=LynnsTiles/12/1127/1712.png 7/8 from tilemgr.lua:1063 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:added to queue table: 0BDC8BE0=LynnsTiles/12/1126/1712.png 7/9 from tilemgr.lua:1063 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:added to queue table: 0BDCB520=LynnsTiles/12/1132/1712.png 7/7 from tilemgr.lua:1063 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmLoadTile[5]:ALREADY downloading LynnsTiles/12/1128/1712.png for 40ms @tilemgr.lua:1354
+[MOAI-1] 02:42:34 osmLoadTile[6]:ALREADY downloading LynnsTiles/12/1129/1712.png for 68ms @tilemgr.lua:1354
+[MOAI-1] 02:42:34 osmLoadTile[12]:ALREADY downloading LynnsTiles/12/1130/1712.png for 65ms @tilemgr.lua:1354
+[MOAI-1] 02:42:34 osmRemoteLoadTile[17] queueing 12/1125/1713 key:LynnsTiles/12/1125/1713.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 8/8 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[18] queueing 12/1125/1712 key:LynnsTiles/12/1125/1712.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 2 9/9 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[19] queueing 12/1125/1714 key:LynnsTiles/12/1125/1714.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 3 10/10 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmLoadTile[20]:ALREADY downloading LynnsTiles/12/1131/1712.png for 66ms @tilemgr.lua:1354
+[MOAI-1] 02:42:34 osmTiles:osmLoadTiles:Loaded 1125.00,1712.00-> 1132.00,1715.00 or 288000.00,438272.00 -> 289792.00,439040.00 in 39ms @osmTiles.lua:2392
+[MOAI-1] 02:42:34 osmTiles:osmLoadTiles:Offset RELOADED! @osmTiles.lua:2411
+[MOAI-1] 02:42:34 osmTiles:moveTo:Took 40.123799990397ms @osmTiles.lua:333
+[MOAI-1] 02:42:34 osmTiles:deltaMove:Took 40.306999988388ms @osmTiles.lua:382
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1128/1712.png Read 0, cl 9547, gs 9547, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 sqlite:saveTile:Begin Transaction returned 0 and took 0.03 msec @mbtile3.lua:518
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/564/856.png) or 0934499C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmPlanetListner[8] LATE 1128,1712,12 wanted by 5 @osmTiles.lua:2317
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1128/1712.png) Took 98msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1129/1712.png Read 0, cl 30641, gs 30641, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/564/856.png) or 0934499C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmPlanetListner[5] LATE 1129,1712,12 wanted by 6 @osmTiles.lua:2317
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1129/1712.png) Took 132msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1131/1712.png Read 0, cl 1517, gs 1517, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/565/856.png) or 09343CCC <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmPlanetListner[12] LATE 1131,1712,12 wanted by 20 @osmTiles.lua:2317
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1131/1712.png) Took 104msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1130/1712.png Read 0, cl 12025, gs 12025, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/565/856.png) or 09343CCC <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmPlanetListner[6] LATE 1130,1712,12 wanted by 12 @osmTiles.lua:2317
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1130/1712.png) Took 133msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 2 9/10 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 1 8/10 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 7/7 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 3 6/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 2 Terminating!  3 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 Reloading for 1128,1712,12 from 1128,1713,12 @osmTiles.lua:2362
+[MOAI-1] 02:42:34 osmRemoteLoadTile[5] queueing 12/1128/1711 key:LynnsTiles/12/1128/1711.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 7/8 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 4 8/8 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 0384F360 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 4/4 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 7/7 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[6] queueing 12/1129/1711 key:LynnsTiles/12/1129/1711.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 8/8 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[8] queueing 12/1127/1711 key:LynnsTiles/12/1127/1711.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 2 9/9 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[12] queueing 12/1130/1711 key:LynnsTiles/12/1130/1711.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 3 10/10 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[15] queueing 12/1126/1711 key:LynnsTiles/12/1126/1711.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 4 11/11 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmLoadTile[17]:ALREADY downloading LynnsTiles/12/1125/1712.png for 54ms @tilemgr.lua:1354
+[MOAI-1] 02:42:34 osmRemoteLoadTile[18] queueing 12/1125/1711 key:LynnsTiles/12/1125/1711.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 5 12/12 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmLoadTile[19]:ALREADY downloading LynnsTiles/12/1125/1713.png for 62ms @tilemgr.lua:1354
+[MOAI-1] 02:42:34 osmRemoteLoadTile[20] queueing 12/1131/1711 key:LynnsTiles/12/1131/1711.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 6 13/13 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmTiles:osmLoadTiles:Loaded 1125.00,1711.00-> 1132.00,1714.00 or 288000.00,438016.00 -> 289792.00,438784.00 in 54ms @osmTiles.lua:2392
+[MOAI-1] 02:42:34 osmTiles:osmLoadTiles:Offset RELOADED! @osmTiles.lua:2411
+[MOAI-1] 02:42:34 osmTiles:moveTo:Took 55.191499995999ms @osmTiles.lua:333
+[MOAI-1] 02:42:34 osmTiles:deltaMove:Took 55.306599999312ms @osmTiles.lua:382
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 08FFCE48] DIED! @service.lua:239
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1125/1713.png Read 0, cl 10634, gs 10634, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/562/856.png) or 09343F5C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmPlanetListner[17] LATE 1125,1713,12 wanted by 19 @osmTiles.lua:2317
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1125/1713.png) Took 75msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1125/1712.png Read 0, cl 11406, gs 11406, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/562/856.png) or 09343F5C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmPlanetListner[18] LATE 1125,1712,12 wanted by 17 @osmTiles.lua:2317
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1125/1712.png) Took 80msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1125/1714.png Read 0, cl 12256, gs 12256, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/562/857.png) or 0934447C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1125/1714.png) Took 84msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 5 12/13 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 4 11/13 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 3 10/13 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 APRSmap:onTouchUp(event)[111]@534,447 0 touches @APRSmap.lua:1062
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1128/1711.png Read 0, cl 14677, gs 14677, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/564/855.png) or 0BDFF7A4 <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1128/1711.png) Took 91msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1129/1711.png Read 0, cl 24420, gs 24420, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/564/855.png) or 0BDFF7A4 <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1129/1711.png) Took 35msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1127/1711.png Read 0, cl 11456, gs 11456, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/563/855.png) or 0BE00FFC <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1127/1711.png) Took 40msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1130/1711.png Read 0, cl 16019, gs 16019, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/565/855.png) or 0BE00D6C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1130/1711.png) Took 46msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 2 9/13 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 1 8/13 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 7/7 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 3 6/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 4 Terminating!  3 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 08FFBBE8] DIED! @service.lua:239
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1126/1711.png Read 0, cl 6624, gs 6624, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/563/855.png) or 0BE00FFC <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1126/1711.png) Took 26msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1125/1711.png Read 0, cl 11227, gs 11227, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/562/855.png) or 0BDFFCC4 <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1125/1711.png) Took 29msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1131/1711.png Read 0, cl 1698, gs 1698, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/565/855.png) or 0BE00D6C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1131/1711.png) Took 31msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 2 5/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 4 Terminating!  2 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 updateLoadingCount:dequeueing item table: 0BDCB520 LynnsTiles/12/1132/1712.png 4/7 from tilemgr.lua:1450 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:dequeueing item table: 0BDC8BE0 LynnsTiles/12/1126/1712.png 3/7 from tilemgr.lua:1450 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 0384F360] DIED! @service.lua:239
+[MOAI-1] 02:42:34 22:42:34 sendPosit(GPS:on) @service.lua:808
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1132/1712.png Read 0, cl 103, gs 103, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Previous(http://ldeffenb.dnsalias.net:14160/osm/12/1132/1712.png) Took 26msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1126/1712.png Read 0, cl 3361, gs 3361, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/563/856.png) or 093441EC <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmPlanetListner[18] LATE 1126,1712,12 wanted by 11 @osmTiles.lua:2317
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Previous(http://ldeffenb.dnsalias.net:14160/osm/12/1126/1712.png) Took 31msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 updateLoadingCount:dequeueing item table: 0BC7B210 LynnsTiles/12/1127/1712.png 2/7 from tilemgr.lua:1450 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 1 1/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 1 Terminating!  1 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 08FFCCF8] DIED! @service.lua:239
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1127/1712.png Read 0, cl 9895, gs 9895, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/563/856.png) or 093441EC <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmPlanetListner[15] LATE 1127,1712,12 wanted by 4 @osmTiles.lua:2317
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Previous(http://ldeffenb.dnsalias.net:14160/osm/12/1127/1712.png) Took 32msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 0 0/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 3 Terminating!  0 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 saveIPFSGateways:MBTiles:table: 036FF040 IPFSBase:nil IPFSGateways:nil IPFSGateways:nil @tilemgr.lua:2997
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 08FFC860] DIED! @service.lua:239
+[MOAI-1] 02:42:34 APRSmap:onTouchDown(event)[111]@425,177 0 touches @APRSmap.lua:1047
+[MOAI-1] 02:42:34 Reloading for 1128,1711,12 from 1128,1712,12 @osmTiles.lua:2362
+[MOAI-1] 02:42:34 osmRemoteLoadTile[5] queueing 12/1128/1710 key:LynnsTiles/12/1128/1710.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 1/8 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 1 2/8 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 08FFD238 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 1/1 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 1/7 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[6] queueing 12/1129/1710 key:LynnsTiles/12/1129/1710.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 2/8 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 2 3/8 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 08FFD190 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 2/2 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 2/7 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[8] queueing 12/1127/1710 key:LynnsTiles/12/1127/1710.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 3/8 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 3 4/8 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 08FFCA58 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 3/3 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 3/7 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[12] queueing 12/1130/1710 key:LynnsTiles/12/1130/1710.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 4/8 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:loadRunning now has 4 5/8 from tilemgr.lua:1037 @tilemgr.lua:842
+[MOAI-1] 02:42:34 runServiceCoroutine:function: 038386F0 coroutine=thread: 08FFBD38 from:tilemgr.lua:1038 @service.lua:209
+[MOAI-1] 02:42:34 queueuServer 4/4 Running... @tilemgr.lua:1462
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 4/7 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[15] queueing 12/1126/1710 key:LynnsTiles/12/1126/1710.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 1 5/8 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[18] queueing 12/1125/1710 key:LynnsTiles/12/1125/1710.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 2 6/9 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmRemoteLoadTile[20] queueing 12/1131/1710 key:LynnsTiles/12/1131/1710.png @tilemgr.lua:1104
+[MOAI-1] 02:42:34 updateLoadingCount:loadingList now has 3 7/10 from tilemgr.lua:1106 @tilemgr.lua:842
+[MOAI-1] 02:42:34 osmTiles:osmLoadTiles:Loaded 1125.00,1710.00-> 1132.00,1713.00 or 288000.00,437760.00 -> 289792.00,438528.00 in 48ms @osmTiles.lua:2392
+[MOAI-1] 02:42:34 osmTiles:osmLoadTiles:Offset RELOADED! @osmTiles.lua:2411
+[MOAI-1] 02:42:34 osmTiles:moveTo:Took 48.918200016487ms @osmTiles.lua:333
+[MOAI-1] 02:42:34 osmTiles:deltaMove:Took 49.006699991878ms @osmTiles.lua:382
+[MOAI-1] 02:42:34 APRSmap:onTouchUp(event)[111]@505,423 0 touches @APRSmap.lua:1062
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1130/1710.png Read 0, cl 12787, gs 12787, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/565/855.png) or 0BE013D4 <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1130/1710.png) Took 37msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1127/1710.png Read 0, cl 12348, gs 12348, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/563/855.png) or 0BE00EB4 <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1127/1710.png) Took 51msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1129/1710.png Read 0, cl 18607, gs 18607, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/564/855.png) or 0BE00D6C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1129/1710.png) Took 59msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1128/1710.png Read 0, cl 14459, gs 14459, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/564/855.png) or 0BE00D6C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1128/1710.png) Took 69msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 2 6/10 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 1 5/10 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:Popping Leaves 0 4/7 from tilemgr.lua:1437 @tilemgr.lua:842
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 3 3/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 1 Terminating!  3 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 08FFD238] DIED! @service.lua:239
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1126/1710.png Read 0, cl 9665, gs 9665, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/563/855.png) or 0BE00EB4 <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1126/1710.png) Took 16msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1125/1710.png Read 0, cl 6895, gs 6895, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/562/855.png) or 0934447C <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1125/1710.png) Took 18msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 http://ldeffenb.dnsalias.net:14160/osm/12/1131/1710.png Read 0, cl 8940, gs 8940, status 200 @tilemgr.lua:1643
+[MOAI-1] 02:42:34 Using cached(LynnsTiles/11/565/855.png) or 0BE013D4 <MOAITexture> nil @mbtile3.lua:378
+[MOAI-1] 02:42:34 osmReallyLoadRemoteTile2:Priority(http://ldeffenb.dnsalias.net:14160/osm/12/1131/1710.png) Took 21msec @tilemgr.lua:3622
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 2 2/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 4 Terminating!  2 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 1 1/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 3 Terminating!  1 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 updateLoadingCount:queue empty.  loadRunning now has 0 0/7 from tilemgr.lua:1483 @tilemgr.lua:842
+[MOAI-1] 02:42:34 queueuServer 2 Terminating!  0 still running. @tilemgr.lua:1484
+[MOAI-1] 02:42:34 saveIPFSGateways:MBTiles:table: 036FF040 IPFSBase:nil IPFSGateways:nil IPFSGateways:nil @tilemgr.lua:2997
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 08FFBD38] DIED! @service.lua:239
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 08FFCA58] DIED! @service.lua:239
+[MOAI-1] 02:42:34 runServiceCoroutines[thread: 08FFD190] DIED! @service.lua:239
